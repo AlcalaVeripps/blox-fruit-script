@@ -1,3 +1,1 @@
 # blox-fruit-script
-
-.
